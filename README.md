@@ -20,6 +20,6 @@ A simple hospital website that allows patients to view various healthcare servic
 
 ## 💻 Technologies Used
 
-HTML, CSS, JavaScript
-PHP (server-side scripting)
-MySQL (database).
+-HTML, CSS, JavaScript
+-PHP (server-side scripting)
+-MySQL (database).
